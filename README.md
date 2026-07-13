@@ -11,7 +11,6 @@
 - JavaScript(Basic)
 - Python
 - Django & Django REST Framework
-- PostgreSQL
 - Git & GitHub
 
 ---
